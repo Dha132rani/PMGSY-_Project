@@ -1,5 +1,8 @@
 Intelligent Classification of Rural Infrastructure Projects
-Problem Statement: 
+
+
+
+
 Problem Statement 35 - Intelligent Classification of Rural Infrastructure Projects
     The Pradhan Mantri Gram Sadak Yojana (PMGSY) is a flagship rural development program in India, initiated to provide all-weather road connectivity to eligible unconnected habitations. Over the years, the program has evolved through different phases or schemes (PMGSY-I, PMGSY-II, RCPLWEA, etc.) — each with potentially distinct objectives, funding mechanisms, and project specifications.
 For government bodies, infrastructure planners, and policy analysts, efficiently categorizing thousands of ongoing and completed projects is crucial for:
